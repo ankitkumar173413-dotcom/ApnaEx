@@ -30,7 +30,7 @@ UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "MAX" #without @
+ADMIN_BOT_USERNAME = "Mirza_Ghallib" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content/uploads/2022/04/1.jpg")
 
